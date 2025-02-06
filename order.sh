@@ -1,2 +1,2 @@
-$a=switchcase
+$a=devops
 echo "my name is $a"
