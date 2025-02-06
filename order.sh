@@ -1,3 +1,2 @@
-echo "my name is  array"
-$name
-
+$a=$array
+echo "my name is $a"
