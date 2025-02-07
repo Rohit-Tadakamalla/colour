@@ -1,4 +1,4 @@
- echo "my name is jenkins"
+ echo "my name is tf"
  date 
  ps -ef
 
