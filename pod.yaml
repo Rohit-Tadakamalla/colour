@@ -1,0 +1,13 @@
+apiVersion: v2
+kind: paymentissue
+metadata:
+  name: nginx
+spec:
+  containers:
+  - name: nginx
+    image: nginx:1.14.4
+    
+    ports:
+    - containerPort: 80 80
+
+
