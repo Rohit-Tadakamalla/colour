@@ -8,6 +8,6 @@ spec:
     image: nginx:1.14.4
     
     ports:
-    - containerPort: 80 80
+    - containerPort: 80
 
 
